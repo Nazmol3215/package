@@ -14,12 +14,13 @@ body {
 }
 
 .hero button {
-    background: white;
-    color: #007bff;
+    background: #4f9c30;
+    color: hsl(210, 40%, 98%);
     padding: 10px 20px;
     border: none;
     cursor: pointer;
     font-size: 1rem;
+    border-radius: 10%;
 }
 
 /* FAQ Section */

@@ -34,3 +34,7 @@ document.getElementById("contact-form").addEventListener("submit", function (eve
         document.getElementById("form-message").style.color = "red";
     }
 });
+
+function goToService() {
+    window.location.href = "Service.html";
+}
